@@ -1,4 +1,4 @@
-FROM    registry.access.redhat.com/ubi8/ubi:latest
+FROM    registry.access.redhat.com/ubi8/ubi@sha256:a965f33ee4ee57dc8e40a1f9350ddf28ed0727b6cf80db46cdad0486a7580f9d
 
 MAINTAINER username <username@example.com>
 
